@@ -69,5 +69,5 @@ To can compile the Arduino sketches, please follow these steps:
 
 3. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/theobwatson/arduino-projects.git
    ```
